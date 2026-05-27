@@ -31,7 +31,7 @@ I am interested in Machine Learning, Deep Learning, Generative AI, RAG, Agentic 
 - AI Surrogate Modelling
 - Physics-based Machine Learning
 
-## Projects
+## Graduate AI and Data Science Projects
 
 ### 1. Second-Hand Car Price Prediction and Pattern Analysis
 
